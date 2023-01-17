@@ -11,8 +11,8 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 0}
   m_Name: Primitives Settings
-  m_EditorClassIdentifier: Assembly-CSharp::PrimitivesSettings
+  m_EditorClassIdentifier: Primitives::PrimitivesSettings
   colliderType: 0
   material: {fileID: 2100000, guid: 49a19f98860a1ba42b147d9dd6a8c761, type: 2}
-  AddRigidbody: 1
+  AddRigidbody: 0
   UseGravity: 0

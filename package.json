@@ -1,0 +1,17 @@
+{
+  "name": "com.ltmx.primitives",
+  "displayName": "Custom Primitives",
+  "description": "More Primitives For Unity",
+  "version": "1.0.0",
+  "keywords": [
+    "mesh",
+    "primitive",
+    "custom",
+    "utility"
+  ],
+  "author": {
+    "name": "LTMX",
+    "email": "nicolasreinhard.pro@gmail.com",
+    "url": "https://github.com/LTMX"
+  }
+}
