@@ -1,24 +1,31 @@
 # Unity Custom Primitives
 <h3>Easily create new Primitives</h3>
 
-<div display="inline">
-<img src="https://github.com/LTMX/Unity-Prefab-Collider-Generator/blob/master/Unity%20Prefab%20Collider%20Generator%20v1.0/Tutorial/Unity%20Collider%20Generator%20Wiki%20-%20From%20Meshes.png" width="248" height="217">
-
-<img src="https://github.com/LTMX/Unity-Prefab-Collider-Generator/blob/master/Unity%20Prefab%20Collider%20Generator%20v1.0/Tutorial/Unity%20Collider%20Generator%20Wiki%20-%20From%20Colliders.png" width="248" height="217">
-
-<br>
-</div>
-
 <h3>Primitives</h3>
 <blockquote><p>
 Torus, Cone, Smooth Cube, Smooth Isocahedron, Smooth Cylinder
-</p></blockquote> 
+</p></blockquote>
 
+<div>
+  
+<img src="https://github.com/LTMX/Unity-Custom-Primitives/blob/main/Documentation~/Images/Unity_Primitives_Banner.png" >
+<br>
 <h3>Instructions</h3>
 <blockquote><p>
 1 - In the Hierarchy window, right click in empty space or on a GameObject
 <br>2 - Select : 3D Object > Torus (or any other object)
-</p></blockquote> 
+</p></blockquote>
+<img src="https://github.com/LTMX/Unity-Custom-Primitives/blob/main/Documentation~/Images/Unity_Primitives_Menu.png">
+ 
+
+  
+  
+<br>
+</div>
+
+
+
+
 
 <h3>Additional Features</h3>
 <blockquote><p>
