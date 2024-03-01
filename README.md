@@ -1,5 +1,8 @@
 # Unity Custom Primitives
-<h3>Easily create new Primitives</h3>
+<h3><i>Easily create new Primitives</i></h3>
+
+[![Made for Unity](https://img.shields.io/badge/Made%20for-Unity-57b9d3.svg?style=for-the-badge&logo=unity&color=blueviolet)](https://unity3d.com)
+
 
 <h3>Primitives</h3>
 <blockquote><p>
